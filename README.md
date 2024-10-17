@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=MuxammilSidd&label=Profile%20views&color=DC143C&style=plastic">
 <div style="border-radius: 1005px; overflow: hidden; display: inline-block;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd3NjF0MGhzbGdsaGx4MHJ3MW45aXFmZGJzc2lqb3k2YWdmcGExeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.webp" 
-       style="width: 400px; height: 380px; border-radius: 150px; box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);">
+       style="width: 200px; height: 190px; border-radius: 150px; box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);">
 </div>
 
 <!--
