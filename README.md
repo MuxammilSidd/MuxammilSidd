@@ -1,8 +1,7 @@
 ## Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=MuxammilSidd&label=Profile%20views&color=DC143C&style=plastic">
 <div style="border-radius: 1005px; overflow: hidden; display: inline-block;">
-  <img src="https://i.imgur.com/HSmPQF2.gif" 
-       style="width: 200px; height: 190px; border-radius: 150px; box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);">
+  <img src="https://i.imgur.com/HSmPQF2.gif">
 </div>
 
 <!--
